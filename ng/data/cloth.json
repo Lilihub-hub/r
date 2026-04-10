@@ -24593,5 +24593,23 @@
             {"id":14312, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14283, "zone":"waistToKnee", "category":"pants", "security":"23881500130e18da", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Jeans",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14283, "colors":["brown"]},
+            {"id":14284, "colors":["white"]},
+            {"id":14285, "colors":["black"]},
+            {"id":14286, "colors":["blue"]},
+            {"id":14287, "colors":["blue"]},
+            {"id":14288, "colors":["purple"]},
+            {"id":14289, "colors":["red"]},
+            {"id":14290, "colors":["yellow"]},
+            {"id":14291, "colors":["orange"]},
+            {"id":14292, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
