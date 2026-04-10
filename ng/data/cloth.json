@@ -24485,5 +24485,23 @@
             {"id":14322, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14343, "zone":"torso", "category":"jacket", "security":"29f5a0ab2d0abb1d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14343, "colors":["brown"]},
+            {"id":14344, "colors":["white"]},
+            {"id":14345, "colors":["black"]},
+            {"id":14346, "colors":["blue"]},
+            {"id":14347, "colors":["blue"]},
+            {"id":14348, "colors":["purple"]},
+            {"id":14349, "colors":["red"]},
+            {"id":14350, "colors":["yellow"]},
+            {"id":14351, "colors":["orange"]},
+            {"id":14352, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
