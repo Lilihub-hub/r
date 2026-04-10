@@ -24899,5 +24899,23 @@
             {"id":1638, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1900, "zone":"waistToKnee", "category":"pants", "security":"bf5901349e1444ac", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shorts",
+        "outfitName":"Kitty Girl",
+        "variations":[
+            {"id":1900, "colors":["pink"]},
+            {"id":1901, "colors":["black"]},
+            {"id":1902, "colors":["white"]},
+            {"id":1903, "colors":["yellow"]},
+            {"id":1904, "colors":["blue"]},
+            {"id":1905, "colors":["purple"]},
+            {"id":1906, "colors":["green"]},
+            {"id":1907, "colors":["red"]},
+            {"id":1908, "colors":["grey"]},
+            {"id":1909, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
