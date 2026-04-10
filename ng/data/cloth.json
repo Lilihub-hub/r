@@ -24863,5 +24863,23 @@
             {"id":1708, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1750, "zone":"arms", "category":"gloves", "security":"a7867d5f757a052b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1750, "colors":["pink"]},
+            {"id":1751, "colors":["black"]},
+            {"id":1752, "colors":["white"]},
+            {"id":1753, "colors":["yellow"]},
+            {"id":1754, "colors":["blue"]},
+            {"id":1755, "colors":["purple"]},
+            {"id":1756, "colors":["green"]},
+            {"id":1757, "colors":["red"]},
+            {"id":1758, "colors":["grey"]},
+            {"id":1759, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
