@@ -24430,5 +24430,23 @@
             {"id":14281, "colors":["white","blue","silver"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado en el Pack exclusivo\nHarlequin Hopper (Pascua 2026)"},
         "releaseDate":"2026-04-02"
+    },
+    {
+        "groupId":14364, "zone":"head", "category":"hat", "security":"ead0fd10eddaa0c3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Helmet",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14364, "colors":["brown"]},
+            {"id":14365, "colors":["white"]},
+            {"id":14366, "colors":["black"]},
+            {"id":14367, "colors":["blue"]},
+            {"id":14368, "colors":["blue"]},
+            {"id":14369, "colors":["purple"]},
+            {"id":14370, "colors":["red"]},
+            {"id":14371, "colors":["yellow"]},
+            {"id":14372, "colors":["orange"]},
+            {"id":14373, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
