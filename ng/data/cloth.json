@@ -24845,5 +24845,23 @@
             {"id":13437, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1699, "zone":"torso_waistToKnee", "category":"dress", "security":"89b9f430f509078b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Overalls",
+        "outfitName":"Playing in the Rain",
+        "variations":[
+            {"id":1699, "colors":["pink"]},
+            {"id":1700, "colors":["black"]},
+            {"id":1701, "colors":["white"]},
+            {"id":1702, "colors":["yellow"]},
+            {"id":1703, "colors":["blue"]},
+            {"id":1704, "colors":["purple"]},
+            {"id":1705, "colors":["green"]},
+            {"id":1706, "colors":["red"]},
+            {"id":1707, "colors":["grey"]},
+            {"id":1708, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
