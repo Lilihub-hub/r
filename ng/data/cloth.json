@@ -24539,5 +24539,23 @@
             {"id":14342, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":13674, "zone":"arms", "category":"gloves", "security":"23ea75aca290bfba", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13674, "colors":["brown"]},
+            {"id":13675, "colors":["white"]},
+            {"id":13676, "colors":["black"]},
+            {"id":13677, "colors":["blue"]},
+            {"id":13678, "colors":["blue"]},
+            {"id":13679, "colors":["purple"]},
+            {"id":13680, "colors":["red"]},
+            {"id":13681, "colors":["yellow"]},
+            {"id":13682, "colors":["orange"]},
+            {"id":13683, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-10"
     }
 ]
