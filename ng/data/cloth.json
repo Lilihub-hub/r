@@ -24917,5 +24917,23 @@
             {"id":1909, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1227, "zone":"feet", "category":"shoes", "security":"64b9e6f759c0c396", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Hololove",
+        "variations":[
+            {"id":1227, "colors":["pink"]},
+            {"id":1228, "colors":["black"]},
+            {"id":1229, "colors":["white"]},
+            {"id":1230, "colors":["yellow"]},
+            {"id":1231, "colors":["blue"]},
+            {"id":1232, "colors":["purple"]},
+            {"id":1233, "colors":["green"]},
+            {"id":1234, "colors":["red"]},
+            {"id":1235, "colors":["grey"]},
+            {"id":1236, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
