@@ -24881,5 +24881,23 @@
             {"id":1759, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1629, "zone":"arms", "category":"gloves", "security":"6a03fd3811a9fb17", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1629, "colors":["pink"]},
+            {"id":1630, "colors":["black"]},
+            {"id":1631, "colors":["white"]},
+            {"id":1632, "colors":["yellow"]},
+            {"id":1633, "colors":["blue"]},
+            {"id":1634, "colors":["purple"]},
+            {"id":1635, "colors":["green"]},
+            {"id":1636, "colors":["red"]},
+            {"id":1637, "colors":["grey"]},
+            {"id":1638, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
