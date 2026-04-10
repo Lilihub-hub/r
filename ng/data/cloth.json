@@ -24719,5 +24719,23 @@
             {"id":13457, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13488, "zone":"torso_waistToKnee", "category":"underwear", "security":"46352ced49110ecc", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweatshirt",
+        "outfitName":"Breath In",
+        "variations":[
+            {"id":13488, "colors":["brown"]},
+            {"id":13489, "colors":["white"]},
+            {"id":13490, "colors":["black"]},
+            {"id":13491, "colors":["blue"]},
+            {"id":13492, "colors":["blue"]},
+            {"id":13493, "colors":["purple"]},
+            {"id":13494, "colors":["red"]},
+            {"id":13495, "colors":["yellow"]},
+            {"id":13496, "colors":["orange"]},
+            {"id":13497, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
