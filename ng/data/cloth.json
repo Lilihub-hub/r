@@ -24629,5 +24629,23 @@
             {"id":14302, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":13538, "zone":"head", "category":"earring", "security":"5320e7b3bc6e1544", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Piercing",
+        "outfitName":"Breath In",
+        "variations":[
+            {"id":13538, "colors":["brown"]},
+            {"id":13539, "colors":["white"]},
+            {"id":13540, "colors":["black"]},
+            {"id":13541, "colors":["blue"]},
+            {"id":13542, "colors":["blue"]},
+            {"id":13543, "colors":["purple"]},
+            {"id":13544, "colors":["red"]},
+            {"id":13545, "colors":["yellow"]},
+            {"id":13546, "colors":["orange"]},
+            {"id":13547, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
