@@ -24575,5 +24575,23 @@
             {"id":14383, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14303, "zone":"arms", "category":"armAccessory", "security":"19d10eb608a97beb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Watch",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14303, "colors":["brown"]},
+            {"id":14304, "colors":["white"]},
+            {"id":14305, "colors":["black"]},
+            {"id":14306, "colors":["blue"]},
+            {"id":14307, "colors":["blue"]},
+            {"id":14308, "colors":["purple"]},
+            {"id":14309, "colors":["red"]},
+            {"id":14310, "colors":["yellow"]},
+            {"id":14311, "colors":["orange"]},
+            {"id":14312, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
