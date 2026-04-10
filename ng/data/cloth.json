@@ -24701,5 +24701,23 @@
             {"id":13537, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13448, "zone":"torso", "category":"jacket", "security":"214b1e85b9fe7c8b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweatshirt",
+        "outfitName":"Breath Out",
+        "variations":[
+            {"id":13448, "colors":["brown"]},
+            {"id":13449, "colors":["white"]},
+            {"id":13450, "colors":["black"]},
+            {"id":13451, "colors":["blue"]},
+            {"id":13452, "colors":["blue"]},
+            {"id":13453, "colors":["purple"]},
+            {"id":13454, "colors":["red"]},
+            {"id":13455, "colors":["yellow"]},
+            {"id":13456, "colors":["orange"]},
+            {"id":13457, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
