@@ -24935,5 +24935,23 @@
             {"id":1236, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":1619, "zone":"feet", "category":"shoes", "security":"a44c5e641f599cec", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Future Enhancement",
+        "variations":[
+            {"id":1619, "colors":["pink"]},
+            {"id":1620, "colors":["black"]},
+            {"id":1621, "colors":["white"]},
+            {"id":1622, "colors":["yellow"]},
+            {"id":1623, "colors":["blue"]},
+            {"id":1624, "colors":["purple"]},
+            {"id":1625, "colors":["green"]},
+            {"id":1626, "colors":["red"]},
+            {"id":1627, "colors":["grey"]},
+            {"id":1628, "colors":["purple"]}
+        ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
+        "releaseDate":"2026-04-10"
     }
 ]
