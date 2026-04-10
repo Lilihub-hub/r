@@ -24611,5 +24611,23 @@
             {"id":14292, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14293, "zone":"feet", "category":"shoes", "security":"a1ac163b33db8a33", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14293, "colors":["brown"]},
+            {"id":14294, "colors":["white"]},
+            {"id":14295, "colors":["black"]},
+            {"id":14296, "colors":["blue"]},
+            {"id":14297, "colors":["blue"]},
+            {"id":14298, "colors":["purple"]},
+            {"id":14299, "colors":["red"]},
+            {"id":14300, "colors":["yellow"]},
+            {"id":14301, "colors":["orange"]},
+            {"id":14302, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
