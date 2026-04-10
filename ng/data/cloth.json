@@ -24809,5 +24809,23 @@
             {"id":13477, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13498, "zone":"feet", "category":"shoes", "security":"258f55fee86b267b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Breath In",
+        "variations":[
+            {"id":13498, "colors":["brown"]},
+            {"id":13499, "colors":["white"]},
+            {"id":13500, "colors":["black"]},
+            {"id":13501, "colors":["blue"]},
+            {"id":13502, "colors":["blue"]},
+            {"id":13503, "colors":["purple"]},
+            {"id":13504, "colors":["red"]},
+            {"id":13505, "colors":["yellow"]},
+            {"id":13506, "colors":["orange"]},
+            {"id":13507, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
