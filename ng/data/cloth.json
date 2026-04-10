@@ -24737,5 +24737,23 @@
             {"id":13497, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13478, "zone":"arms", "category":"bag", "security":"af0c1c658e9a6275", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Water Bottle",
+        "outfitName":"Breath Out",
+        "variations":[
+            {"id":13478, "colors":["brown"]},
+            {"id":13479, "colors":["white"]},
+            {"id":13480, "colors":["black"]},
+            {"id":13481, "colors":["blue"]},
+            {"id":13482, "colors":["blue"]},
+            {"id":13483, "colors":["purple"]},
+            {"id":13484, "colors":["red"]},
+            {"id":13485, "colors":["yellow"]},
+            {"id":13486, "colors":["orange"]},
+            {"id":13487, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
