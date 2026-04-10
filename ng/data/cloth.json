@@ -24448,5 +24448,24 @@
             {"id":14373, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14353, "zone":"head", "category":"wig", "security":"93a00a274127f202", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14353, "colors":["brown"]},
+            {"id":14354, "colors":["white"]},
+            {"id":14355, "colors":["black"]},
+            {"id":14356, "colors":["blue"]},
+            {"id":14357, "colors":["blue"]},
+            {"id":14358, "colors":["purple"]},
+            {"id":14359, "colors":["red"]},
+            {"id":14360, "colors":["yellow"]},
+            {"id":14361, "colors":["orange"]},
+            {"id":14362, "colors":["orange"]},
+            {"id":14363, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
