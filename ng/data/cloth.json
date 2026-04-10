@@ -24791,5 +24791,23 @@
             {"id":13527, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13468, "zone":"waistToKnee", "category":"pants", "security":"bc611d1fc14755f6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Breath Out",
+        "variations":[
+            {"id":13468, "colors":["brown"]},
+            {"id":13469, "colors":["white"]},
+            {"id":13470, "colors":["black"]},
+            {"id":13471, "colors":["blue"]},
+            {"id":13472, "colors":["blue"]},
+            {"id":13473, "colors":["purple"]},
+            {"id":13474, "colors":["red"]},
+            {"id":13475, "colors":["yellow"]},
+            {"id":13476, "colors":["orange"]},
+            {"id":13477, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
