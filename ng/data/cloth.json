@@ -24557,5 +24557,23 @@
             {"id":13683, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":14374, "zone":"arms", "category":"bag", "security":"e510d08c94ed9a26", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Keys",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14374, "colors":["brown"]},
+            {"id":14375, "colors":["white"]},
+            {"id":14376, "colors":["black"]},
+            {"id":14377, "colors":["blue"]},
+            {"id":14378, "colors":["blue"]},
+            {"id":14379, "colors":["purple"]},
+            {"id":14380, "colors":["red"]},
+            {"id":14381, "colors":["yellow"]},
+            {"id":14382, "colors":["orange"]},
+            {"id":14383, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
