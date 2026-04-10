@@ -24683,5 +24683,23 @@
             {"id":13447, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13528, "zone":"torso", "category":"jacket", "security":"c2f9448af121177c", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Breath In",
+        "variations":[
+            {"id":13528, "colors":["brown"]},
+            {"id":13529, "colors":["white"]},
+            {"id":13530, "colors":["black"]},
+            {"id":13531, "colors":["blue"]},
+            {"id":13532, "colors":["blue"]},
+            {"id":13533, "colors":["purple"]},
+            {"id":13534, "colors":["red"]},
+            {"id":13535, "colors":["yellow"]},
+            {"id":13536, "colors":["orange"]},
+            {"id":13537, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"24", "text":"Desbloqueado en el episodio 24"},
+        "releaseDate":"2026-04-10"
     }
 ]
