@@ -24521,5 +24521,23 @@
             {"id":14332, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
         "releaseDate":"2026-04-03"
+    },
+    {
+        "groupId":14333, "zone":"arms", "category":"gloves", "security":"39c64391cadd4048", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"Thomas' Vibe",
+        "variations":[
+            {"id":14333, "colors":["brown"]},
+            {"id":14334, "colors":["white"]},
+            {"id":14335, "colors":["black"]},
+            {"id":14336, "colors":["blue"]},
+            {"id":14337, "colors":["blue"]},
+            {"id":14338, "colors":["purple"]},
+            {"id":14339, "colors":["red"]},
+            {"id":14340, "colors":["yellow"]},
+            {"id":14341, "colors":["orange"]},
+            {"id":14342, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Thomas' Vibe", "text":"Desbloqueado en el Pack exclusivo\nThomas' Vibe"},
+        "releaseDate":"2026-04-03"
     }
 ]
