@@ -24953,5 +24953,23 @@
             {"id":1628, "colors":["purple"]}
         ], "criteria":{"type":"jobTask", "info":"Agenda", "text":"Desbloqueado en la Misión del día\nAgenda"},
         "releaseDate":"2026-04-10"
+    },
+    {
+        "groupId":13684, "zone":"torso", "category":"top", "security":"cd83fd4bd29a524c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13684, "colors":["brown"]},
+            {"id":13685, "colors":["white"]},
+            {"id":13686, "colors":["black"]},
+            {"id":13687, "colors":["blue"]},
+            {"id":13688, "colors":["blue"]},
+            {"id":13689, "colors":["purple"]},
+            {"id":13690, "colors":["red"]},
+            {"id":13691, "colors":["yellow"]},
+            {"id":13692, "colors":["orange"]},
+            {"id":13693, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-11"
     }
 ]
