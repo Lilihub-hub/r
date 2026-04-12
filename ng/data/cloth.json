@@ -24989,5 +24989,23 @@
             {"id":13713, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
         "releaseDate":"2026-04-12"
+    },
+    {
+        "groupId":13694, "zone":"waistToKnee", "category":"pants", "security":"166c92ab227f3244", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tie",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13694, "colors":["brown"]},
+            {"id":13695, "colors":["white"]},
+            {"id":13696, "colors":["black"]},
+            {"id":13697, "colors":["blue"]},
+            {"id":13698, "colors":["blue"]},
+            {"id":13699, "colors":["purple"]},
+            {"id":13700, "colors":["red"]},
+            {"id":13701, "colors":["yellow"]},
+            {"id":13702, "colors":["orange"]},
+            {"id":13703, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-12"
     }
 ]
