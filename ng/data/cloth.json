@@ -24971,5 +24971,23 @@
             {"id":13693, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
         "releaseDate":"2026-04-11"
+    },
+    {
+        "groupId":13704, "zone":"face", "category":"neckAccessory", "security":"e55817aeac0fc47c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tie",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13704, "colors":["brown"]},
+            {"id":13705, "colors":["white"]},
+            {"id":13706, "colors":["black"]},
+            {"id":13707, "colors":["blue"]},
+            {"id":13708, "colors":["blue"]},
+            {"id":13709, "colors":["purple"]},
+            {"id":13710, "colors":["red"]},
+            {"id":13711, "colors":["yellow"]},
+            {"id":13712, "colors":["orange"]},
+            {"id":13713, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-12"
     }
 ]
