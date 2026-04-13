@@ -25025,5 +25025,23 @@
             {"id":13733, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
         "releaseDate":"2026-04-13"
+    },
+    {
+        "groupId":13717, "zone":"feet", "category":"jacket", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13717, "colors":["brown"]},
+            {"id":13715, "colors":["white"]},
+            {"id":13716, "colors":["black"]},
+            {"id":13714, "colors":["blue"]},
+            {"id":13718, "colors":["blue"]},
+            {"id":13719, "colors":["purple"]},
+            {"id":13720, "colors":["red"]},
+            {"id":13722, "colors":["yellow"]},
+            {"id":13721, "colors":["orange"]},
+            {"id":13723, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-13"
     }
 ]
