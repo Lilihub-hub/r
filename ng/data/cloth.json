@@ -25027,7 +25027,7 @@
         "releaseDate":"2026-04-13"
     },
     {
-        "groupId":13717, "zone":"feet", "category":"jacket", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":13717, "zone":"feet", "category":"shoes", "security":"52f839c868ae1d2b", "multiLayered":false, "layerBehavior":"normal",
         "name":"Boots",
         "outfitName":"Archi's Favorites",
         "variations":[
