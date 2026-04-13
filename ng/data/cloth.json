@@ -25007,5 +25007,23 @@
             {"id":13703, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
         "releaseDate":"2026-04-12"
+    },
+    {
+        "groupId":13724, "zone":"torso", "category":"jacket", "security":"9ac19ab95f7f048e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vest",
+        "outfitName":"Archi's Favorites",
+        "variations":[
+            {"id":13724, "colors":["brown"]},
+            {"id":13725, "colors":["white"]},
+            {"id":13726, "colors":["black"]},
+            {"id":13727, "colors":["blue"]},
+            {"id":13728, "colors":["blue"]},
+            {"id":13729, "colors":["purple"]},
+            {"id":13730, "colors":["red"]},
+            {"id":13731, "colors":["yellow"]},
+            {"id":13732, "colors":["orange"]},
+            {"id":13733, "colors":["pink"]}
+        ], "criteria":{"type":"pack", "info":"Archi's Favorites", "text":"Desbloqueado en el Pack exclusivo\nArchi's Favorites"},
+        "releaseDate":"2026-04-13"
     }
 ]
